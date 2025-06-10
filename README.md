@@ -16,7 +16,8 @@
 **Employment History**
 - 2021.09 - 2022.08 : **Research Professor**, Department of Physics, Korea University
 - 2022.09 - 2023.03 : **Researcher**, Super Computing Center, Korea Institute of Science and Technology Information
-- 2023.04 - current : **Assistant Professor**, Faculty of Pure and Applied Sciences, Universit of Tsukuba
+- 2023.04 - 2025.03 : **Assistant Professor**, Faculty of Pure and Applied Sciences, Universit of Tsukuba
+- 2025.06 - current : **Physicist"", Jeonbuk National Univeresity
 
 <!---
 jpxrk/jpxrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
