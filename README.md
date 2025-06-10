@@ -1,7 +1,7 @@
 ## Hello, I'm Jonghan Park 👋🏻
 
 - 👨🏻‍🎓 Physicist, degree of Ph.D
-- 👨🏻‍💻 Working at University of Tsukuba as assistant professor
+- 👨🏻‍💻 Working at Jeonbuk National Univesity
 - ⚙️ I use : `C/C++`, `python`, `keras`
 - 🖥 Parallel computing : `Grid`, `HTCondor`, `PROOF`
 - 💿 OS : `macOS`, `Linux(CentOS)`, `Linux(Ubuntu)`, `Windows`
